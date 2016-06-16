@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  country_name: MyString
+  traffic_share: 1
+  change: 1
+  avg_visit_duration: 1
+  pages_per_visit: 1
+  bounce_rate: 1
+
+two:
+  country_name: MyString
+  traffic_share: 1
+  change: 1
+  avg_visit_duration: 1
+  pages_per_visit: 1
+  bounce_rate: 1

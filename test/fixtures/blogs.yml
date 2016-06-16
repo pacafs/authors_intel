@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  blog_url: MyString
+  description: MyText
+  skills: MyString
+  last_3_month_visits: 1
+  avg_monthly_visits: 1
+  avg_visit_duration: MyString
+  pages_per_visit: 1
+  bounce_rate: 1
+  wp: false
+  ga: false
+
+two:
+  title: MyString
+  blog_url: MyString
+  description: MyText
+  skills: MyString
+  last_3_month_visits: 1
+  avg_monthly_visits: 1
+  avg_visit_duration: MyString
+  pages_per_visit: 1
+  bounce_rate: 1
+  wp: false
+  ga: false
