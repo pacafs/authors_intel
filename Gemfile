@@ -50,3 +50,11 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 gem 'simple_form'
 
 gem 'forest_liana'
+
+gem 'nokogiri', '~> 1.6.7.2'
+
+
+
+
+
+
